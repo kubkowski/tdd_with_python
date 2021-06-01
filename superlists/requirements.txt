@@ -85,7 +85,7 @@ software-center-aptd-plugins==0.0.0
 stevedore==1.2.0
 system-service==0.1.6
 unity-lens-photos==1.0
-urllib3==1.8.3
+urllib3==1.26.5
 vboxapi==1.0
 virtkey==0.63.0
 virtualenv==12.0.7
