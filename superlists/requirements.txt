@@ -48,7 +48,7 @@ oauth==1.0.1
 oauthlib==0.7.2
 oneconf==0.3.7
 openshot==1.4.3
-paramiko==1.15.1
+paramiko==2.10.1
 pbr==0.10.7
 pdfshuffler==0.6.0
 pexpect==3.2
