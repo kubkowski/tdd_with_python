@@ -74,7 +74,7 @@ python-debian==0.1.22
 pytz==2014.9
 pyxdg==0.25
 rebar==0.1
-reportlab==3.1.8
+reportlab==3.5.55
 requests==2.3.0
 selenium==2.44.0
 service-identity==1.0.0
