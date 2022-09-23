@@ -53,7 +53,7 @@ pbr==0.10.7
 pdfshuffler==0.6.0
 pexpect==3.2
 piston-mini-client==0.7.5
-protobuf==2.5.0
+protobuf==3.18.3
 pyOpenSSL==0.13.1
 pyPdf==1.13
 pyasn1==0.1.7
